@@ -41,6 +41,7 @@ nav ul li a:hover{
     text-align: center;
     color: white;
     padding: 150px 0;
+    background-attachment: fixed;
 }
 .content{
     padding: 100px 50px;
